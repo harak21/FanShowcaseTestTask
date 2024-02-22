@@ -1,0 +1,14 @@
+{
+    "name": "FanShowcase.SceneManagement",
+    "rootNamespace": "",
+    "references": ["GUID:f51ebe6a0ceec4240a699833d6309b23","GUID:485b1a0167c95a2418dbeabf612f0d4b"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

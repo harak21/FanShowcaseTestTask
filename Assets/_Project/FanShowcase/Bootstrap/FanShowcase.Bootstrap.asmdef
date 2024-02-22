@@ -1,0 +1,21 @@
+{
+    "name": "FanShowcase.Bootstrap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:ca81cdd5ca734944b878d10252c443ab",
+        "GUID:485b1a0167c95a2418dbeabf612f0d4b",
+        "GUID:84bc19312ef91604ca3d35d2819af5eb",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:1c676235b5a144147a38f2f78c548fa8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
